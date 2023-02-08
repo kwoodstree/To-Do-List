@@ -8,7 +8,7 @@ function inputLength(){
 	return input.value.length;
 
 } 
-
+//this is random comment
 function listLength(){
     console.log (item.length)
 	return item.length;
